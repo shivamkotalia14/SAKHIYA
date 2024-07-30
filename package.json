@@ -6,16 +6,6 @@
   "scripts": {
     "start": "nodemon app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ThalKod/discord-clone.git"
-  },
-  "author": "Thal Marcelin",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ThalKod/discord-clone/issues"
-  },
-  "homepage": "https://github.com/ThalKod/discord-clone#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
